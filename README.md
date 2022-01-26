@@ -7,4 +7,4 @@
   </a>
 </p>
 
-<small>#Eatin' shrimp life</small>
+<p align="right">#Eatin' shrimp is life</small>
