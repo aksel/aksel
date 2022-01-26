@@ -1,5 +1,8 @@
-## Well my name is Aksel and I'm here to say
+<h1 align="center">Hello! My name is Aksel</h1>
+<h2 align="center">Dev from the Faroe Islands 🇫🇴</h2>
 
-I'm a dev from the Faroe Islands, and I live and work in Copenhay-gen.
-
-I'd like to write more. I'm sure you are all very interested in hearing ✨ _my thoughts._ ✨ I should start a blog 🤔
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aksel&theme=alduin&column=7&margin-w=8&margin-h=8&no-frame=true" alt="My trophies" />
+  </a>
+</p>
