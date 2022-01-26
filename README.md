@@ -1,4 +1,4 @@
-<h1 align="center">Hello! My name is Aksel</h1>
+<h1 align="center">Hi ✌️, I'm Aksel</h1>
 <h2 align="center">Dev from the Faroe Islands 🇫🇴</h2>
 
 <p align="center">
@@ -6,3 +6,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aksel&theme=alduin&column=7&margin-w=8&margin-h=8&no-frame=true" alt="My trophies" />
   </a>
 </p>
+
+<small>#Eatin' shrimp life</small>
